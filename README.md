@@ -1,5 +1,5 @@
 # tubemp3
-Desktop application to download the mp3 audio from videos and playlists from youtube by simply copying its URL.
+Desktop application to download MP3 audio from youtube videos and playlists by simply copying its URL.
 
 You just need to run tubemp3 and copy (CTRL + C) a youtube video or playlist URL and it will start downloading automatically.
 
